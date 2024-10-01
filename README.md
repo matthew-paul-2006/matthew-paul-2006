@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Matt and I work in the Bioinformatics Resource Center at Rockefeller University.
+
+
 <!--
 **matthew-paul-2006/matthew-paul-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
