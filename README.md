@@ -3,13 +3,13 @@
 <img src="portrait.jpg" alt="drawing" width="200"/>
 
 **Background**  
-Matt studied his BSc Genetics at Univeristy of Manchester which included a year working as a predoctoral fellow at Thomas Jefferson University. Matt worked on his PhD in Biology at New York University with a focus on epigenetics and genome organization.
+I studied my BSc Genetics at University of Manchester which included a year working as a predoctoral fellow at Thomas Jefferson University in Philadelphia. Subsequently I completed my PhD in Biology at New York University with a focus on epigenetics and genome organization.
 
-Upon completion of his PhD in 2019, Matt joined Rockefeller University as part of the Bioinformatics Resource Center. 
+Upon completion of my PhD in 2019, I joined Rockefeller University as part of the Bioinformatics Resource Center.
 
-Matt is particuarly interested in analysis reproducibility, and is the lead developer of the Herper package for utilizing the Conda ecosystem within R. 
+I am particuarly interested in analysis reproducibility, and I am the lead developer of the Herper package for utilizing the Conda ecosystem within R.
 
-**Team Roles**: Matt leads the BRC bioinformatics training program.
+**Team Roles**: I lead the BRC bioinformatics training program.
 
 <!--
 ## Thomas Carroll
